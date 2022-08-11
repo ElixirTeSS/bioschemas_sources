@@ -1,0 +1,22 @@
+providers:
+  - title: 'Galaxy Training'
+    url: 'http://galaxyproject.github.io/training-material'
+    source: https://training.galaxyproject.org/training-material/sitemap.xml
+    image_url: 'https://raw.githubusercontent.com/galaxyproject/training-material/master/shared/images/GTNLogo1000.png'
+    description: 'GitHub repository and its website companion containing a collection of training materials for teaching next generation sequencing data analysis uing Galaxy.'
+    content_provider_type: 'Project'
+  - title: 'VIB Training'
+    url: https://training.vib.be/
+    source: https://training.vib.be/sitemap.xml
+    image_url: 'https://training.vib.be/themes/vibcourses/logo.svg'
+    content_provider_type: 'Organisation'
+  - title: 'European Bioinformatics Institute (EBI)'
+    url: http://www.ebi.ac.uk
+    source: https://trainingcontent.embl.org/api/v1/ebi-training-events-tess
+    image_url: 'http://www.ebi.ac.uk/miriam/static/main/img/EBI_logo.png'
+    content_provider_type: 'Organisation'
+  - title: Bioinformatics.ca
+    url: https://bioinformatics.ca/
+    source: https://bioinformatics.ca/sitemap.xml
+    image_url: https://bioinformatics.ca/wp-content/uploads/2022/02/logo-canadian-bioinformatics-workshops.svg
+    content_provider_type: 'Organisation'
