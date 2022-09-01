@@ -11,3 +11,6 @@ providers:
   - title: Bioinformatics.ca
     url: https://bioinformatics.ca/
     source: https://bioinformatics.ca/sitemap.xml
+  - title: NanoCommons
+    url: https://www.nanocommons.eu/
+    source: https://nanocommons.github.io/sitemap.xml
