@@ -14,3 +14,6 @@ providers:
   - title: NanoCommons
     url: https://www.nanocommons.eu/
     source: https://nanocommons.github.io/sitemap.xml
+  - title: NBIS
+    url: http://nbis.se
+    source: https://nbis.se/assets/training/courses.json
