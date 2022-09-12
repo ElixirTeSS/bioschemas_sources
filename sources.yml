@@ -14,3 +14,7 @@ providers:
   - title: NanoCommons
     url: https://www.nanocommons.eu/
     source: https://nanocommons.github.io/sitemap.xml
+  - title: IFB French Institute of Bioinformatics
+    url: http://www.france-bioinformatique.fr/
+    source: https://catalogue.france-bioinformatique.fr/sitemap.tess.xml
+    
