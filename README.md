@@ -15,13 +15,13 @@ Information on how to implement Bioschemas on your site can be found [in the Bio
 ## Sitemap
 Your site will also need a [sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview), which is basically a directory listing of all the pages on your site. TeSS crawls through each page of the sitemap and checks for markup from the above Bioschemas profiles.
 
-Sitemaps are an established standard, and there should be 
+Sitemaps are an established standard, and there should be sitemap libraries and plugins available for whichever system you are using to provide your website.
 
 ## How to add a source
 
 If you have implemented one or more of the above Bioschemas profiles, and you have a sitemap available, you can now submit your site as a "source" to be scraped:
 
-1. [Register a Content Provider in TeSS](https://tess.elixir-europe.org/content_providers/new) if you have not already.
+1. [Register a Content Provider in TeSS](https://tess.elixir-europe.org/content_providers/new) (requires a TeSS account) if you have not already.
 
 2. Make note of your Content Provider's exact Title and URL, which you can copy from the "Edit" page, e.g.
 ![image](https://user-images.githubusercontent.com/503373/191801899-c6dde1bc-c802-4c3c-b7f1-96665abe7178.png)
