@@ -1,5 +1,5 @@
 # Bioschemas Sources
-This repository contains a list of sources that [TeSS](https://tess.elixir-europe.org/) will scrape for relevant Bioschemas-marked-up resources.
+This repository contains a list of sources that [TeSS](https://tess.elixir-europe.org/) will scrape for relevant [Bioschemas](https://bioschemas.org/)-marked-up resources.
 
 Each source will be scraped once per day at ~3AM UTC.
 
