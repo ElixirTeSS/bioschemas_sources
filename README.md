@@ -5,10 +5,10 @@ Each source will be scraped once per day at ~3AM UTC.
 
 ## Bioschemas
 TeSS currently understands the following Bioschemas profiles:
-* [CourseInstance](https://bioschemas.org/profiles/CourseInstance/0.9-DRAFT) - Will be registered as TeSS events
+* [CourseInstance](https://bioschemas.org/profiles/CourseInstance/0.9-DRAFT) - Will be registered as TeSS events.
 * [Course](https://bioschemas.org/profiles/Course/0.10-DRAFT) - Each `CourseInstance` under the `hasCourseInstance` property will be registered as a TeSS event, with any missing metadata pulled in from the `Course`.
-* [Event](https://bioschemas.org/profiles/Event/0.2-DRAFT-2019_06_14) - Will be registered as TeSS events
-* [TrainingMaterial](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE) - Will be registered as TeSS materials
+* [Event](https://bioschemas.org/profiles/Event/0.2-DRAFT-2019_06_14) - Will be registered as TeSS events.
+* [TrainingMaterial](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE) - Will be registered as TeSS materials.
 
 Information on how to implement Bioschemas on your site can be found [in the Bioschemas documentation](https://bioschemas.org/tutorials/howto/howto_add_markup).
 
@@ -26,9 +26,7 @@ If you have implemented one or more of the above Bioschemas profiles, and you ha
 2. Make note of your Content Provider's exact Title and URL, which you can copy from the "Edit" page, e.g.
 ![image](https://user-images.githubusercontent.com/503373/191801899-c6dde1bc-c802-4c3c-b7f1-96665abe7178.png)
 
-3. [Click here to edit the `sources.yml` file](https://github.com/ElixirTeSS/bioschemas_sources/edit/main/sources.yml) and add your content provider details along with the URL to your sitemap.
-
-Example:
+3. [Click here to edit the `sources.yml` file](https://github.com/ElixirTeSS/bioschemas_sources/edit/main/sources.yml) and add your content provider details along with the URL to your sitemap, e.g.
 ```yml
   - title: Galaxy Training # The title of your Content Provider on TeSS
     url: http://galaxyproject.github.io/training-material # The URL of your Content Provider on TeSS
