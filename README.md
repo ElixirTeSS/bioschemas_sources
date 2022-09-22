@@ -33,6 +33,6 @@ If you have implemented one or more of the above Bioschemas profiles, and you ha
     source: https://training.galaxyproject.org/training-material/sitemap.xml # The URL to your sitemap.xml file that TeSS should crawl
 ```
 
-*It's important to make sure the title and URL exactly match the Content Provider's title and URL on TeSS*
+*It's important to make sure the `title` and `url` exactly match the Content Provider's title and URL on TeSS*
 
 4. After making your change, click the button to open a pull request, which will then be reviewed. If everything worked correctly, your content should appear in TeSS the following day.
