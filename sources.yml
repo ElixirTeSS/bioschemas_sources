@@ -17,4 +17,6 @@ providers:
   - title: IFB French Institute of Bioinformatics
     url: http://www.france-bioinformatique.fr/
     source: https://catalogue.france-bioinformatique.fr/sitemap.tess.xml
-    
+  - title: SIB Swiss Institute of Bioinformatics
+    url: http://www.sib.swiss/training/training-group
+    source: https://www.sib.swiss/training/upcoming-training-courses    
