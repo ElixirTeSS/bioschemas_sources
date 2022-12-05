@@ -23,3 +23,6 @@ providers:
   - title: SIB Swiss Institute of Bioinformatics
     url: http://www.sib.swiss/training/training-group
     source: https://www.sib.swiss/training/upcoming-training-courses
+  - title: European Bioinformatics Institute (EBI)
+    url: http://www.ebi.ac.uk
+    source: https://www.ebi.ac.uk/api/v1/ebi-training-on-demand-tess/?_format=json&source=trainingcontenthub
