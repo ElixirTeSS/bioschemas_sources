@@ -1,7 +1,4 @@
 providers:
-  - title: Galaxy Training
-    url: http://galaxyproject.github.io/training-material
-    source: https://training.galaxyproject.org/training-material/sitemap.xml
   - title: VIB Training
     url: https://training.vib.be/
     source: https://training.vib.be/sitemap.xml
