@@ -13,7 +13,7 @@ providers:
     source: https://nanocommons.github.io/sitemap.xml
   - title: NBIS
     url: http://nbis.se
-    source: https://nbis.se/assets/training/courses.json
+    source: https://nbis.se/wwwadmin/api/courseinstances/bioschemas
   - title: IFB French Institute of Bioinformatics
     url: http://www.france-bioinformatique.fr/
     source: https://catalogue.france-bioinformatique.fr/sitemap.tess.xml
