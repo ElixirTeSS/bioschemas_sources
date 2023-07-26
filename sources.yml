@@ -1,22 +1,19 @@
 providers:
-  - title: VIB Training
-    url: https://training.vib.be/
-    source: https://training.vib.be/sitemap.xml
-  - title: European Bioinformatics Institute (EBI)
-    url: http://www.ebi.ac.uk
-    source: https://trainingcontent.embl.org/api/v1/ebi-training-events-tess
-  - title: Bioinformatics.ca
-    url: https://bioinformatics.ca/
-    source: https://bioinformatics.ca/sitemap.xml
-  - title: NanoCommons
-    url: https://www.nanocommons.eu/
-    source: https://nanocommons.github.io/sitemap.xml
-  - title: NBIS
-    url: http://nbis.se
-    source: https://nbis.se/wwwadmin/api/courseinstances/bioschemas
-  - title: IFB French Institute of Bioinformatics
-    url: http://www.france-bioinformatique.fr/
-    source: https://catalogue.france-bioinformatique.fr/sitemap.tess.xml
-  - title: European Bioinformatics Institute (EBI)
-    url: http://www.ebi.ac.uk
-    source: https://www.ebi.ac.uk/api/v1/ebi-training-on-demand-tess/?_format=json&source=trainingcontenthub
+  # - title: VIB Training
+  #   url: https://training.vib.be/
+  #   source: https://training.vib.be/sitemap.xml
+  # - title: Bioinformatics.ca
+  #   url: https://bioinformatics.ca/
+  #   source: https://bioinformatics.ca/sitemap.xml
+  # - title: NanoCommons
+  #   url: https://www.nanocommons.eu/
+  #   source: https://nanocommons.github.io/sitemap.xml
+  # - title: NBIS
+  #   url: http://nbis.se
+  #   source: https://nbis.se/wwwadmin/api/courseinstances/bioschemas
+  # - title: IFB French Institute of Bioinformatics
+  #   url: http://www.france-bioinformatique.fr/
+  #   source: https://catalogue.france-bioinformatique.fr/sitemap.tess.xml
+  # - title: European Bioinformatics Institute (EBI)
+  #   url: http://www.ebi.ac.uk
+  #   source: https://www.ebi.ac.uk/api/v1/ebi-training-on-demand-tess/?_format=json&source=trainingcontenthub
